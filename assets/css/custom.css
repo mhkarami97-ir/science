@@ -110,3 +110,9 @@ div[class^='language-'] .code-header span {
   max-width: 50%;
   margin: 0 auto;
 }
+
+#sidebar .sidebar-bottom>a:not(:last-child) {
+  margin-left: 0.8rem;
+  margin-right: 0;
+}
+
